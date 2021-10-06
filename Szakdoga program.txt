@@ -1,0 +1,45 @@
+Auth
+Ugye akkor lesz a user a hallgató és az admin aki az Admin, a Koordinátor és a Gyakorlatvezető
+A hallgató tud regisztrálni és belépni
+Az Admin tud regisztrálni és belépni, valamint létrehozni Koordinátor és Gyakorlatvezető profilokat.
+A Koordinátor és a Gyakorlatvezető csak belépni tud.
+
+Funkciók:
+Hallgató
+
+-Gyakorlatra jelentkezés
+-Új gyakorlat hozzáadása
+-Gyakorlat adatainak megtekintése
+-Üzenetküldés
+-Dokumentumok feltöltése
+-Értékelés megtekintése
+
+Gyakorlatvezető
+
+-Saját gyakorlatok megtekintése
+-Üzenetküldés
+-Dokumentumok elbírálása/értékelése
+-Jelenléti ív vezetése
+
+Koordinátor
+
+-Kommunikáció mindenkivel kivéve az adminisztrátor
+-Gyakorlatok látszámának beállítása
+-Gyakorlat létrehozása?
+-Gyakorlati jelentkezési lehetőségének beállítása
+-Gyakorlatvezető hozzárendelése a gyakorlathoz
+-Gyakorlati jelentkezés elbírálása
+-Dokumentumok elbírálása
+-Gyakorlatvezetők értékeléseinek megtekintése
+-Hallgatók értékelése
+-Szakmai gyakorlat lezárása
+-Igazolás kiállítása
+
+Adminisztrátor
+
+-Kommunikáció?
+-Gyakorlat létrehozása
+-Gyakorlat tulajdonságainak beállítása
+-Hallgatók és gyakorlatvezető gyakorlathoz rendelése
+-Gyakorlatról való levétel
+-Új gyakorlat felvételének jóváhagyása
